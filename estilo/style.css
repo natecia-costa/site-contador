@@ -1,0 +1,34 @@
+body {
+    font: normal 15pt Arial;
+    background-color: gray;
+}
+h1 {
+     text-align: center;
+     color: white;
+     text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.486);
+}
+section {
+    background-color: white;
+    padding: 15px;
+    width: 350px;
+    margin: auto;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.486);
+    border-radius: 20px;
+}
+div {
+    margin-bottom: 20px;
+}
+#btn {
+    background-color: lightgray;
+    color: rgba(0, 0, 0, 0.644);
+     box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.486);
+    border: none;
+    padding: 10px;
+    border-radius: 20px;
+    font-size: 14px;
+}
+#btn:hover {
+    background-color: gray;
+    color: white;    
+    cursor: pointer;
+}
